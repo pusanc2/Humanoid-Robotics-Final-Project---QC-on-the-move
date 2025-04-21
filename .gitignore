@@ -1,0 +1,9 @@
+build/
+devel/
+log/
+*.pyc
+*.swp
+*.user
+*.backup
+*.DS_Store
+
